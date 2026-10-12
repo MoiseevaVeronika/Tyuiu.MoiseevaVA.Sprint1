@@ -1,5 +1,5 @@
-﻿using Tyuiu.MoiseevaVA.Sprint1.Task3.V0.Lib;
-namespace Tyuiu.MoiseevaVA.Sprint1.Task3.V0.Test
+﻿using Tyuiu.MoiseevaVA.Sprint1.Task3.V1.Lib;
+namespace Tyuiu.MoiseevaVA.Sprint1.Task3.V1.Test
 {
     [TestClass]
     public sealed class DataServiceTest

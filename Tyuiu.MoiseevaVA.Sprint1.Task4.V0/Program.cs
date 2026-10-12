@@ -1,4 +1,4 @@
-﻿using Tyuiu.MoiseevaVA.Sprint1.Task4.V0.Lib;
+﻿using Tyuiu.MoiseevaVA.Sprint1.Task4.V16.Lib;
 namespace Tyuiu.MoiseevaVA.Sprint1.Task4.V0
 {
     internal class Program
@@ -23,13 +23,11 @@ namespace Tyuiu.MoiseevaVA.Sprint1.Task4.V0
             int x, y;
             Console.WriteLine("Введите значение X:");
             x = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Введите значение Y:");
-            y = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("*                                                                       * ");
             Console.WriteLine("**************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                             * ");
             Console.WriteLine("**************************************************************************");
-            Console.WriteLine("1/(x^2+y^2)=" + ds.Calculate(x, y));
+            Console.WriteLine("1/(x+4)=" + ds.Calculate(x));
             Console.ReadKey();
 
         }
