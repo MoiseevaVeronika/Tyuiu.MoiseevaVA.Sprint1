@@ -1,8 +1,7 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
-    <RootNamespace>Tyuiu.MoiseevaVA.Sprint1.Task2_V0.Test</RootNamespace>
     <LangVersion>latest</LangVersion>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
@@ -14,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.MoiseevaVA.Sprint1.Task2,V0.Lib\Tyuiu.MoiseevaVA.Sprint1.Task2.V20.Lib.csproj" />
+    <ProjectReference Include="..\Tyuiu.MoiseevaVA.Sprint1.Task5.V0.Lib\Tyuiu.MoiseevaVA.Sprint1.Task5.V0.Lib.csproj" />
   </ItemGroup>
 
   <ItemGroup>

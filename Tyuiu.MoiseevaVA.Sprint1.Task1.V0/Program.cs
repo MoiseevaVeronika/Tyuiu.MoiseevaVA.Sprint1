@@ -1,4 +1,4 @@
-﻿using Tyuiu.MoiseevaVA.Sprint1.Task1.V12.Lib;
+﻿using Tyuiu.MoiseevaVA.Sprint1.Task1.V0.Lib;
 namespace Tyuiu.MoiseevaVA.Sprint1.Task1.V0
 {
     internal class Program

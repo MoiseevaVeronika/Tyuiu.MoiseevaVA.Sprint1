@@ -5,7 +5,7 @@ namespace Tyuiu.MoiseevaVA.Sprint1.Task0.V24.Lib
     {
         public double Calculate()
         {
-            return 2*4/4/2+1;
+            return 10 / (2 + 3);
         }
     }
 }

@@ -1,6 +1,6 @@
 ﻿using System;
-using Tyuiu.MoiseevaVA.Sprint1.Task5.V6.Lib;
-namespace Tyuiu.MoiseevaVA.Sprint1.Task5.V6
+using Tyuiu.MoiseevaVA.Sprint1.Task5.V0.Lib;
+namespace Tyuiu.MoiseevaVA.Sprint1.Task5.V0
 {
     internal class Program
     {
