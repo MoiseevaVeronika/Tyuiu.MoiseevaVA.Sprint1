@@ -1,4 +1,4 @@
-﻿namespace Tyuiu.MoiseevaVA.Sprint1
+﻿namespace Tyuiu.MoiseevaVA.Sprint1.Task0.V24
 {
     internal class Program
     {
