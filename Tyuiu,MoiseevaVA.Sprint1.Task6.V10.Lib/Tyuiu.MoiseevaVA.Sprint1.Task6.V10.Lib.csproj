@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Tyuiu_MoiseevaVA.Sprint1.Task6.V10.Lib</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\1\source\repos\Tyuiu.MoiseevaVA.Sprint1\Tyuiu.MoiseevaVA.Sprint1.Task6.V10.Lib\DataService.cs" Link="DataService.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Tyuiu.MoiseevaVA.Sprint1.Task5.V6.Lib\Tyuiu.MoiseevaVA.Sprint1.Task5.V6.Lib.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="tyuiu.cources.programming.interfaces">
+      <HintPath>..\..\..\..\Desktop\tyuiu.cources.programming.interfaces.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
