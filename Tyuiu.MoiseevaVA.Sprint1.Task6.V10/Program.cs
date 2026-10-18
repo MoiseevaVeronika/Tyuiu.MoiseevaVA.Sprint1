@@ -35,10 +35,6 @@ namespace Tyuiu.MoiseevaVA.Sprint1.Task6.V10
             Console.WriteLine(result);
 
             Console.ReadKey();
-
-
-
-
         }
     }
 }
